@@ -1,0 +1,20 @@
+<h3>National Workshop on Data Analytics using R (1st - 2nd Feb., 2019 )</h3><br>
+<p>National Workshop on Data Analytics using R  (1st - 2nd Feb., 2019 ) Organized By MAISM at Ambabari Campus.</p><br>
+
+<h3>8th Convocation of RTU at MAISM (Live)</h3><br>
+<p>(Live) 8th convocation of RTU at MAISM</p><br>
+
+<h3>MAISM, Dept. of Computer Science Organizing a "National Seminar on Industrial Automation and IoTs" [NSIAI] on 24-25 Sept. 2018.</h3><br>
+<p>MAISM, Dept. of Computer Science Organizing a "National Seminar on Industrial Automation and IoTs" [NSIAI]  on 24-25 Sept. 2018 at Ambabari Campus.</p><br>
+
+<h3>National Workshop on Microsoft Excel- Beginner to Advanced</h3><br>
+<p>National Workshop on Microsoft Excel- Beginner to Advanced 6th - 11th August, 2018</p><br>
+
+<h3>National Conference on emerging Paradigms in Cloud Computing & Communication Convergence</h3><br>
+<p>The national conference on “Emerging Paradigms in Cloud Computing and Communication Convergence (NCEPCC – 2016) provide a forum for the constructive interaction and exchange of ideas among researchers and practitioners involved in research work on the related topics of the conference themes. It aims at bringing together the experts in Cloud Computing and related domains to discuss their expertise and views for knowledge enhancement in handling data</p><br>
+
+
+
+<img src="image/maiet.jpg" alt="MAIET" height="200px" width="200px" > <figcaption > MAIET</figcaption>
+<img src="image/MASMS.jpg" alt="MASMS" height="200px" width="200px"  > <figcaption > MASMS</figcaption>
+<img src="image/MAU.jpg" alt="MAU" height="200px" width="200px" > <figcaption > MAU</figcaption>
